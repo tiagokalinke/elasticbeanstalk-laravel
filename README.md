@@ -1,3 +1,5 @@
+`app/Http/Middleware/TrustProxies.php`
+
 ```php
 <?php
 
